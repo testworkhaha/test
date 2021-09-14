@@ -1,0 +1,5 @@
+blog.51cto.com###page_center > section.detail-content-left:first-child > section.common-section.common-spacing.mb30:last-child
+52pojie.cn###jz52top
+cloud.tencent.com##.com-widget-operations2, .theme2, .J-sharingBar
+36kr.com##.assit-wrapper, .undefined
+36kr.com##.navbar-inner-box, .fixed
