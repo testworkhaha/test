@@ -3,3 +3,42 @@ blog.51cto.com###page_center > section.detail-content-left:first-child > section
 cloud.tencent.com##.com-widget-operations2, .theme2, .J-sharingBar
 36kr.com##.assit-wrapper, .undefined
 36kr.com##.navbar-inner-box, .fixed
+36kr.com##.article-right-container
+36kr.com##.kr-header
+36kr.com##.kr-footer
+36kr.com##.thumb-up-box
+@@||greasyfork.org^$important,document
+vgtime.com##.vg_comm_fot
+vgtime.com##.head_02, .head_box
+m.ithome.com##.relevant-news
+m.ithome.com##.grade
+m.ithome.com##.hot-app
+m.ithome.com##.ruanmei-footer
+m.ithome.com##.open-app-a
+m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.footer:last-child > div.footer-box > div.ft > div.ft-item.news-placard:nth-child(5) > button
+m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.footer:last-child > div.footer-box > div.ft > div.ft-item.news-share:nth-child(4) > button
+m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.footer:last-child > div.footer-box > div.ft > div.ft-item.news-collect.news-collect-gray:nth-child(3) > button
+m.ithome.com##div.page-box:first-child > div.con-box:nth-child(3) > div.footer:last-child > div.footer-box > div.ft > div.ft-item.write-review:first-child
+m.ithome.com##.head
+m.ithome.com##.news-class
+ifanr.com##.ifanr-footer
+ifanr.com###footerRecPosts
+ifanr.com##.is-abs
+ifanr.com##.c-article-likes
+ifanr.com##.o-single-aside
+ifanr.com##.c-global-header
+ifanr.com##.c-meta-share__right
+huxiu.com##.operation-icons
+huxiu.com##.default-footer
+huxiu.com##.article__related-article-wrap
+huxiu.com###top > div:first-child > section.article-wrap.normal:last-child > div.article__bottom-content.justify-center.clearfix.article__bottom-content-padding > div.article__bottom-content__right.fl:nth-child(2) > div:nth-child(2)
+huxiu.com##.nav-default
+tmtpost.com##.posts_buoy
+tmtpost.com##.share_info, .share_info_end
+tmtpost.com##.p_footer
+tmtpost.com##.related_articles
+tmtpost.com##.get_award_box
+tmtpost.com##.lists_part
+tmtpost.com##.p_header, .p-header
+tmtpost.com##.info_other
+bbs.tianya.cn##.bbs-float-menu
